@@ -1,0 +1,121 @@
+Instruction,Actual,Prediction
+where is order {{Order Number}}?,track_order,change_order
+I don't  know how I can find the invoices from {{Person Name}},check_invoice,get_invoice
+get bills from {{Person Name}},get_invoice,check_invoice
+I am trying to find the shipping perod,delivery_period,change_shipping_address
+I do not know how to find invoice #85632,check_invoice,get_invoice
+can Icontact a person?,contact_human_agent,get_invoice
+need help canging to the premium account,switch_account,delete_account
+wanna see bill #85632,check_invoice,get_invoice
+see order {{Order Number}} stats,track_order,change_order
+get bill #00108,get_invoice,check_invoice
+need to get the invoices from {{Person Name}},get_invoice,check_invoice
+help creating account,registration_problems,create_account
+I want assistance to get my invoices from {{Person Name}},get_invoice,check_invoice
+where can I get the invoices from {{Person Name}}?,get_invoice,check_invoice
+i do not know how i can find bill #00108,check_invoice,get_invoice
+get invoice from nine months ago,get_invoice,check_invoice
+i need a {{Account Type}} account could i openm it,create_account,delete_account
+i dont know what ihave to do to find my bill #37777,check_invoice,get_invoice
+i do not have a standard account assistance registering,create_account,delete_account
+help me to find my invoice from {{Person Name}},check_invoice,get_invoice
+am I entitled to a reimbursement?,check_refund_policy,get_refund
+"I have to see my invoice from {{Person Name}}, help me",check_invoice,get_invoice
+how to get bill #85632?,get_invoice,check_invoice
+need to chnange to the {{Account Type}} account could i get some help,switch_account,delete_account
+I don't know what to do to speak with cusstomer service,contact_customer_service,contact_human_agent
+want assistance to get the bills from {{Person Name}},get_invoice,check_invoice
+help with deleting some items from my last order,change_order,place_order
+see order {{Order Number}} stats,track_order,change_order
+get invoice #37777,get_invoice,check_invoice
+need assistance reporting an issue with pyments,payment_issue,registration_problems
+where can I notify of problems with payent?,payment_issue,registration_problems
+I ned assistance to get my invoice #12588,get_invoice,check_invoice
+i need assistance to get my invoices  from {{Person Name}},get_invoice,check_invoice
+canuhelp me to get the bills from {{Person Name}},get_invoice,check_invoice
+wanna find the bills from {{Person Name}} could i get somw help,check_invoice,get_invoice
+need help canging to the {{Account Category}} account,switch_account,delete_account
+help to get my invoices from {{Person Name}},get_invoice,check_invoice
+want assistance to fid my invoice from {{Person Name}},check_invoice,get_invoice
+what do i need to do to swigch to the standard account,switch_account,delete_account
+I need a user,create_account,recover_password
+how to get the invoices from {{Person Name}},get_invoice,check_invoice
+get bill fromAnna Freeman,get_invoice,contact_human_agent
+I need help with cancellng order {{Order Number}},cancel_order,change_order
+how can I get my invoices from {{Person Name}}?,get_invoice,check_invoice
+what do i have to do to createa premium account,create_account,delete_account
+i do not know what to do to cdheck my bill #85632,check_invoice,get_invoice
+how to get my bill #85632,get_invoice,check_invoice
+wanna see the bill from {{Person Name}},check_invoice,get_invoice
+get invoice #00108,get_invoice,check_invoice
+can I update order00004587345?,change_order,edit_account
+i cannot find bill #85632 can usendit to me,get_invoice,check_invoice
+I don't know what  to do to find the bills from {{Person Name}},check_invoice,get_invoice
+I have got to chaneg to the {{Account Category}} account,switch_account,delete_account
+where is purechase {{Order Number}},track_order,change_order
+another {{Account Type}} account,create_account,delete_account
+see bill from {{Person Name}},check_invoice,get_invoice
+I want  a {{Account Category}} account,create_account,delete_account
+i need help to see my bill from {{Person Name}},check_invoice,get_invoice
+update purchase732201349959,change_order,edit_account
+need assistance to get the invoices from {{Person Name}},get_invoice,check_invoice
+where to sign up to the company nmewsletter,newsletter_subscription,registration_problems
+"I have got to see the bills from {{Person Name}}, help me",check_invoice,get_invoice
+"I do not use my {{Account Type}} account, I want assistance cancelling it",delete_account,switch_account
+help me usew the freemium account,switch_account,delete_account
+what do i have to do to get invoice #37777,get_invoice,check_invoice
+could ya help me locae purchase {{Order Number}},track_order,change_order
+how to get bill #85632,get_invoice,check_invoice
+modify order00004587345,change_order,edit_account
+is it possible to contactr a person,contact_human_agent,get_invoice
+"I don't have a premium account, how do I sign up?",create_account,delete_account
+seeingbill from {{Person Name}},check_invoice,get_invoice
+find my bill from {{Person Name}},check_invoice,get_invoice
+update purchase00123842,change_order,edit_account
+how can i tfack purchase {{Order Number}},track_order,change_order
+where do I get invoice #00108?,get_invoice,check_invoice
+I need help with canxeling purchase {{Order Number}},cancel_order,change_order
+i have got to see my invoice #12588 how can i do it,check_invoice,get_invoice
+how can I get the invoices from {{Person Name}}?,get_invoice,check_invoice
+I need assistance enteirng another delivery address,set_up_shipping_address,change_shipping_address
+I want assistance to see my invoice from {{Person Name}},check_invoice,get_invoice
+i need assistance to get the invoice #85632,get_invoice,check_invoice
+I don't know what to do ti see my invoice from {{Person Name}},check_invoice,get_invoice
+where is order {{Order Number}},track_order,change_order
+how do I get bill #85632?,get_invoice,check_invoice
+see the bill from {{Person Name}},check_invoice,get_invoice
+get invoice #85632,get_invoice,check_invoice
+help me to get my invoices from {{Person Name}},get_invoice,check_invoice
+issues creating account,registration_problems,create_account
+another pro account,create_account,delete_account
+would you give me information about cancelling orders?,cancel_order,delete_account
+I don't know what I have to do to wsitch to the {{Account Type}} account,switch_account,delete_account
+i try to get the inovice #00108,get_invoice,check_invoice
+can I get my bill #12588?,get_invoice,check_invoice
+i have got to locte order {{Order Number}},track_order,change_order
+find my bill from {{Person Name}},check_invoice,get_invoice
+need help with cancelliing order {{Order Number}},cancel_order,change_order
+see invoicefrom {{Person Name}},check_invoice,get_invoice
+i needhelp to get my invoices from {{Person Name}},get_invoice,check_invoice
+want assistance to get my invoices from {{Person Name}},get_invoice,check_invoice
+lcate order {{Order Number}},track_order,change_order
+what do i need to do to see the invoice #37777,check_invoice,get_invoice
+need assistance to get my invoice #85632,get_invoice,check_invoice
+I need help to find my invoice #12588,check_invoice,get_invoice
+I am trying to find my invoices from {{Person Name}},check_invoice,get_invoice
+I call to get my bills from {{Person Name}},get_invoice,check_invoice
+see invoicefrom {{Person Name}},check_invoice,get_invoice
+need assistance withcanceling purchase {{Order Number}},cancel_order,change_order
+need help lpocating the bloody invoice from {{Person Name}},check_invoice,get_invoice
+can uhelp me cancelliung order {{Order Number}},cancel_order,change_order
+I need help contacting customerservice,contact_customer_service,contact_human_agent
+order anitem,place_order,change_order
+help to get bill #85632,get_invoice,check_invoice
+i want help to track purchase00123842,track_order,track_refund
+can uhelp me cancelliung order {{Order Number}},cancel_order,change_order
+need to submut a delivery address,set_up_shipping_address,change_shipping_address
+"I do not use the damn {{Account Category}} account, help canceling it",delete_account,switch_account
+see the bill from {{Person Name}},check_invoice,get_invoice
+i do not know how i could casncel order {{Order Number}},cancel_order,change_order
+i dont know how i can see my bill from {{Person Name}},check_invoice,get_invoice
+I have to change the delivery adfress,change_shipping_address,switch_account

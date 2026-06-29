@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+backend/customer_support.db
+notebooks/customer_support.db
+*.safetensors
+*.bin
+*.pt
+backend/app/ai/bert_model/
+reports/bert_results/
